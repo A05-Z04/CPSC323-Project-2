@@ -70,7 +70,7 @@ submission satisfies. If a project successfully meets all of the requirements ab
 
 | State  | id  | +  | -  | *  | /  | (  | )  | $  | E | T | F |
 |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |
-| 0  |  SS   |     |     |     |     |  S4   |     |     |   1  |  2   |  3   |
+| 0  |  S5   |     |     |     |     |  S4   |     |     |   1  |  2   |  3   |
 | 1  |     |  S6   |  S7   |     |     |     |     |  Acc   |     |     |     |
 | 2  |     |  R3   |  R3   |  S8   |  S9   |     |  R3   |  R3   |     |     |     |
 | 3  |     |   R6  |  R6   |  R6   |  R6   |     |  R6   |  R6   |     |     |     |
