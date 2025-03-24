@@ -36,12 +36,12 @@ submission satisfies. If a project successfully meets all of the requirements ab
 2. Screenshot of input and successful output.
 3. Your transformed grammar (from the given grammar below).
 4. A very brief project report (pdf format) that outlines the following:
-a. Group members.
-b. Which member did what work.
-c. Programming language used.
-d. An explanation of your design choices and how your parser works. You may include a diagram or design sketch.
-e. Citation of any external resources utilized (stackoverflow, reddit, wikipedia, etc).
-f. A statement that no AI resources were utilized in the production of any work for this project.
+  - a. Group members.
+  - b. Which member did what work.
+  - c. Programming language used.
+  - d. An explanation of your design choices and how your parser works. You may include a diagram or design sketch.
+  - e. Citation of any external resources utilized (stackoverflow, reddit, wikipedia, etc).
+  - f. A statement that no AI resources were utilized in the production of any work for this project.
 
 
 ## Test Cases
@@ -52,12 +52,12 @@ f. A statement that no AI resources were utilized in the production of any work 
 5. ( id + ( id / id * id / id ) / id )
 6. ( id + id
 7. id id id
-8. - id + id / id )
+8. -id + id / id )
 9. ( id () id )
 10. ( id * id * id / id ))
 
 ## Table Test Case
-
+```
 (1) E --> E + T
 (2) E --> E - T
 (3) E --> E - T
@@ -66,6 +66,7 @@ f. A statement that no AI resources were utilized in the production of any work 
 (6) T --> F
 (7) F --> (E)
 (8) F --> id
+```
 
 | State  | id  | +  | -  | *  | /  | (  | )  | $  | E | T | F |
 |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |---- |
