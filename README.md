@@ -76,7 +76,7 @@ submission satisfies. If a project successfully meets all of the requirements ab
 | 3  |     |   R6  |  R6   |  R6   |  R6   |     |  R6   |  R6   |     |     |     |
 | 4  |   S5  |     |     |     |     |  S4   |     |     |  10   |   2  |  3   |
 | 5  |     |  R8   |  R8   |  R8   | R8    |     |  R8   |  R8   |     |     |     |
-| 6  | S5    |     |     |     |     |  S5   |     |     |     |  11   |  3   |
+| 6  | S5    |     |     |     |     |  S4   |     |     |     |  11   |  3   |
 | 7  |  S5   |     |     |     |     |  S4   |     |     |     |  12   |  3   |
 | 8  |  S5   |     |     |     |     | S4    |     |     |     |     |  13   |
 | 9  |   S5  |     |     |     |     | S4    |     |     |     |     |  14   |
