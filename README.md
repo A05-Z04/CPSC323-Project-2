@@ -30,18 +30,18 @@ Your project must satisfy the following requirements in order to receive full ma
 submission satisfies. If a project successfully meets all of the requirements above, then it will be awarded full marks. Points will be deducted for each requirement that is not met; partial credit is possible. The project will be worth 60 points. Per the course syllabus, there will be no late work accepted.
 
 
-##Submission Items
+## Submission Items
 > The following items must be submitted in a zipped file format to Canvas no later than the assigned due date of the project:
 1. Source code.
 2. Screenshot of input and successful output.
 3. Your transformed grammar (from the given grammar below).
 4. A very brief project report (pdf format) that outlines the following:
-  - a. Group members.
-  - b. Which member did what work.
-  - c. Programming language used.
-  - d. An explanation of your design choices and how your parser works. You may include a diagram or design sketch.
-  - e. Citation of any external resources utilized (stackoverflow, reddit, wikipedia, etc).
-  - f. A statement that no AI resources were utilized in the production of any work for this project.
+    - a. Group members.
+    - b. Which member did what work.
+    - c. Programming language used.
+    - d. An explanation of your design choices and how your parser works. You may include a diagram or design sketch.
+    - e. Citation of any external resources utilized (stackoverflow, reddit, wikipedia, etc).
+    - f. A statement that no AI resources were utilized in the production of any work for this project.
 
 
 ## Test Cases
