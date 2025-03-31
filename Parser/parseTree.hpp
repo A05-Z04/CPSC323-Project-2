@@ -15,6 +15,7 @@ class TreeNode
 
         TreeNode(const std::string& new_var);
         void add_child(TreeNode* child);
+        void printTree(int level = 0);
         ~TreeNode();
 };
 
